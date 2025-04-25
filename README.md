@@ -81,8 +81,7 @@ Completed with public ip
 
 10. Accessing using the Apache server using the public IP address, site accessible 
 
-
-![](./IMG/10.%20website%20accessed.png)
+![](./img/10.%20website%20accessed.png)
 
 
 
